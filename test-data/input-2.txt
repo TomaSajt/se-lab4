@@ -1,0 +1,5 @@
+# Create a ship with a primary store that never fails containing only 3 torpedos
+GT4500,2,0,1,0
+TORPEDO,ALL # secondary runs out
+TORPEDO,ALL # primary runs out
+TORPEDO,ALL # trying to fire empty
