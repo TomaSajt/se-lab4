@@ -1,0 +1,5 @@
+# Create a ship with an empty primary store and a secondary store that never fails with 2 shots
+GT4500,0,0,2,0
+TORPEDO,SINGLE # primary is empty, fires secondary
+TORPEDO,SINGLE # primary is empty, fires secondary
+TORPEDO,SINGLE # both are empty
